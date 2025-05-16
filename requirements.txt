@@ -6,7 +6,6 @@ llama-index-llms-openai==0.3.38
 llama-index-readers-file==0.4.7
 llama-index-readers-google==0.6.1
 llama-index-vector-stores-qdrant==0.6.0
-python-dotenv==1.1.0
 qdrant-client==1.14.2
 
 git+https://github.com/codified-io/codified-sdk.git

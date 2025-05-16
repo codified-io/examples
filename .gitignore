@@ -1,6 +1,7 @@
 .DS_Store
 .boneyard
 .devbox
+.ipynb_checkpoints
 .env
 .venv
 devbox.lock
