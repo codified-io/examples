@@ -1,0 +1,6 @@
+jupyterlab==4.4.2
+jupyterlab-lsp==5.1.0
+mypy==1.15.0
+python-lsp-server==1.12.2
+
+-r requirements.txt

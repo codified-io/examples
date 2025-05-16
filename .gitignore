@@ -3,6 +3,5 @@
 .devbox
 .env
 .venv
-**creds.json
 devbox.lock
 __pycache__
