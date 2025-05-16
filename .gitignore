@@ -2,7 +2,7 @@
 .boneyard
 .devbox
 .ipynb_checkpoints
-.env
 .venv
+config.env
 devbox.lock
 __pycache__
